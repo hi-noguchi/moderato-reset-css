@@ -58,6 +58,11 @@
   padding: 0;
 }
 
+[type="file"] {
+  cursor: pointer;
+  padding: 0;
+}
+
 [type="number"] {
   width: auto;
 }
