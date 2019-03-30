@@ -241,36 +241,42 @@ form {
 
 h1 {
   border: 0;
+  font-weight: normal;
   margin: 0;
   padding: 0;
 }
 
 h2 {
   border: 0;
+  font-weight: normal;
   margin: 0;
   padding: 0;
 }
 
 h3 {
   border: 0;
+  font-weight: normal;
   margin: 0;
   padding: 0;
 }
 
 h4 {
   border: 0;
+  font-weight: normal;
   margin: 0;
   padding: 0;
 }
 
 h5 {
   border: 0;
+  font-weight: normal;
   margin: 0;
   padding: 0;
 }
 
 h6 {
   border: 0;
+  font-weight: normal;
   margin: 0;
   padding: 0;
 }
@@ -480,6 +486,7 @@ tfoot {
 
 th {
   border: 0;
+  font-weight: normal;
   margin: 0;
   padding: 0;
 }
