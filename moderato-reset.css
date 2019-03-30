@@ -55,6 +55,7 @@
 
 [type="button"] {
   cursor: pointer;
+  padding: 0;
 }
 
 [type="number"] {
@@ -78,6 +79,7 @@
 
 [type="submit"] {
   cursor: pointer;
+  padding: 0;
 }
 
 
@@ -156,6 +158,7 @@ button {
   cursor: pointer;
   font: inherit;
   overflow: visible;
+  padding: 0;
   text-transform: none;
 }
 
